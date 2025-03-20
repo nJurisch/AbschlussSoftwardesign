@@ -1,1 +1,1 @@
-pip install TinyDB numpy matplotlib streamlit scipy io base64 csv pandas Query hashlib
+pip install tinydb numpy matplotlib streamlit scipy pandas
