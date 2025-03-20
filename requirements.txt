@@ -1,1 +1,6 @@
-pip install tinydb numpy matplotlib streamlit scipy pandas
+tinydb
+numpy
+matplotlib
+streamlit
+scipy
+pandas
